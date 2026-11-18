@@ -5,9 +5,6 @@
 <div align="center">
 
 # Olá, mundo! 👾
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=650&lines=Apaixonado+por+tecnologia;Transformando+ideias+em+código;Aprendendo+algo+novo+todos+os+dias;Construindo+meu+futuro+na+programação" />
-</div>
 Um pouco de curiosidade, algumas linhas de código e muita vontade de descobrir coisas novas.
 
 <br>
@@ -37,19 +34,13 @@ Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expand
 
 <img src="https://skillicons.dev/icons?i=cs,c,js&theme=dark" />
 
-<br>
-
 ### DESENVOLVIMENTO WEB
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
-<br>
-
 ### BANCO DE DADOS
 
 <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=E32636" />
-
-<br>
 
 ### FERRAMENTAS
 
@@ -71,12 +62,11 @@ Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expand
 
 ## 🚀 Objetivos
 
-```text
-Desenvolver projetos cada vez mais completos.
-Aprender novas linguagens e tecnologias.
-Explorar diferentes áreas do desenvolvimento.
-Transformar estudos em experiência prática, com usos reais.
-```
+- 📁 Desenvolver projetos cada vez mais completos.
+- 📲 Aprender novas linguagens e tecnologias.
+- 🔎 Explorar diferentes áreas do desenvolvimento.
+- 📍 Transformar estudos em experiência prática, com usos reais.
+
 
 A ideia é simples: não ficar parado no mesmo lugar.
 
