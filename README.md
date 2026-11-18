@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1526374870839-e155464bb9b2?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" width="100%" alt="Banner do perfil" />
+  <img src="https://images.unsplash.com/photo-1526374870839-e155464bb9b2?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" width="100%" height="200" alt="Banner do perfil" />
 </div>
 
 <br>
