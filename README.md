@@ -70,8 +70,6 @@ Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expand
 
 A ideia é simples: não ficar parado no mesmo lugar.
 
----
-
 ## 📂 Meu espaço de projetos
 
 Este GitHub é onde pretendo reunir meus projetos, experiências, estudos e experimentos.
