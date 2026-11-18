@@ -14,8 +14,6 @@ Um pouco de curiosidade, algumas linhas de código e muita vontade de descobrir 
 
 </div>
 
----
-
 ## 🧑‍💻 Sobre mim
 
 E aí! Seja bem-vindo ao meu GitHub.
@@ -23,8 +21,6 @@ E aí! Seja bem-vindo ao meu GitHub.
 Sou alguém que gosta de tecnologia e desenvolvimento de software, especialmente na forma como diferentes linguagens e ferramentas podem ser utilizadas para construir soluções.
 
 Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expandindo meus conhecimentos e tecnologias.
-
----
 
 ## ⚙️ Tecnologias que fazem parte da minha jornada
 
@@ -48,8 +44,6 @@ Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expand
 
 </div>
 
----
-
 ## 🔍 Áreas de interesse
 
 - 💻 Desenvolvimento de software e aplicações.
@@ -57,8 +51,6 @@ Meu foco é evoluir tecnicamente, desenvolver boas soluções e continuar expand
 - 🗄️ Banco de dados e organização de informações.
 - 🧠 Lógica de programação e resolução de problemas.
 - ⚡ Novas ferramentas, linguagens e possibilidades.
-
----
 
 ## 🚀 Objetivos
 
