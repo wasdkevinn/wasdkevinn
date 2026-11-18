@@ -2,14 +2,12 @@
   <img src="https://images.unsplash.com/photo-1526374870839-e155464bb9b2?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" width="100%" height="200" alt="Banner do perfil" />
 </div>
 
-<br>
-
 <div align="center">
 
 # Olá, mundo! 👾
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=650&lines=Apaixonado+por+tecnologia;Transformando+ideias+em+código;Aprendendo+algo+novo+todos+os+dias;Construindo+meu+futuro+na+programação" />
-
+</div>
 Um pouco de curiosidade, algumas linhas de código e muita vontade de descobrir coisas novas.
 
 <br>
